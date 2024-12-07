@@ -243,6 +243,7 @@
   <project name="TheMuppets/proprietary_vendor_xiaomi_dipper" path="vendor/xiaomi/dipper" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_earth" path="vendor/xiaomi/earth" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_equuleus" path="vendor/xiaomi/equuleus" revision="lineage-21" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_gauguin" path="vendor/xiaomi/gauguin" revision="lineage-21" groups="muppets,muppets_gauguin" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_gemini" path="vendor/xiaomi/gemini" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_grus" path="vendor/xiaomi/grus" revision="lineage-21" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_haydn" path="vendor/xiaomi/haydn" revision="lineage-21" groups="muppets,muppets_haydn" clone-depth="1" />
