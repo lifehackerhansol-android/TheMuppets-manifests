@@ -86,6 +86,15 @@
   <project name="TheMuppets/proprietary_vendor_google_coral" path="vendor/google/coral" groups="muppets,muppets_coral" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_flame" path="vendor/google/flame" groups="muppets,muppets_flame" clone-depth="1" />
 
+  <!-- LGE SDM845 -->
+  <project name="TheMuppets/proprietary_vendor_lge_g710n" path="vendor/lge/g710n" groups="muppets,muppets_g710n" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_lge_g710ulm" path="vendor/lge/g710ulm" groups="muppets,muppets_g710ulm" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_lge_judyln" path="vendor/lge/judyln" groups="muppets,muppets_judyln" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_lge_judyln-common" path="vendor/lge/judyln-common" groups="muppets,muppets_g710n,muppets_g710ulm,muppets_judyln" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_lge_judyp" path="vendor/lge/judyp" groups="muppets,muppets_judyp" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_lge_judypn" path="vendor/lge/judypn" groups="muppets,muppets_judypn" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_lge_sdm845-common" path="vendor/lge/sdm845-common" groups="muppets,muppets_g710n,muppets_g710ulm,muppets_judyln,muppets_judyp,muppets_judypn" clone-depth="1" />
+
   <!-- Motorola Exynos9610 -->
   <project name="TheMuppets/proprietary_vendor_motorola_exynos9610-common" path="vendor/motorola/exynos9610-common" groups="muppets,muppets_kane,muppets_troika" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_motorola_kane" path="vendor/motorola/kane" groups="muppets,muppets_kane" clone-depth="1" />
