@@ -308,4 +308,10 @@
   <project name="TheMuppets/proprietary_vendor_xiaomi_sdm845-common" path="vendor/xiaomi/sdm845-common" groups="muppets,muppets_beryllium,muppets_dipper,muppets_equuleus,muppets_perseus,muppets_polaris,muppets_ursa" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_shark" path="vendor/xiaomi/shark" groups="muppets,muppets_shark" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_ursa" path="vendor/xiaomi/ursa" groups="muppets,muppets_ursa" clone-depth="1" />
+
+  <!-- Xiaomi SM8350 -->
+  <project name="TheMuppets/proprietary_vendor_xiaomi_haydn" path="vendor/xiaomi/haydn" groups="muppets,muppets_haydn" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_lisa" path="vendor/xiaomi/lisa" groups="muppets,muppets_lisa" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_renoir" path="vendor/xiaomi/renoir" groups="muppets,muppets_renoir" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_sm8350-common" path="vendor/xiaomi/sm8350-common" groups="muppets,muppets_haydn,muppets_lisa,muppets_renoir" clone-depth="1" />
 </manifest>
