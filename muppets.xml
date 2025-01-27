@@ -86,6 +86,11 @@
   <project name="TheMuppets/proprietary_vendor_google_coral" path="vendor/google/coral" groups="muppets,muppets_coral" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_google_flame" path="vendor/google/flame" groups="muppets,muppets_flame" clone-depth="1" />
 
+  <!-- Lenovo SM8150 -->
+  <project name="TheMuppets/proprietary_vendor_lenovo_heart" path="vendor/lenovo/heart" groups="muppets,muppets_heart" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_lenovo_zippo" path="vendor/lenovo/zippo" groups="muppets,muppets_zippo" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_lenovo_sm8150-common" path="vendor/lenovo/sm8150-common" groups="muppets,muppets_heart,muppets_zippo" clone-depth="1" />
+
   <!-- LGE SDM845 -->
   <project name="TheMuppets/proprietary_vendor_lge_g710n" path="vendor/lge/g710n" groups="muppets,muppets_g710n" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_lge_g710ulm" path="vendor/lge/g710ulm" groups="muppets,muppets_g710ulm" clone-depth="1" />
